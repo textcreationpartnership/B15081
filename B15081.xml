@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The first and second part of The remedy of loue. VVritten by Sir Thomas Ouerbury Knight</title>
+            <title>Remedia amoris. English</title>
+            <author>Ovid, 43 B.C.-17 or 18 A.D.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15081</idno><idno type="EEBO-CITATION">99849039</idno>
+  <idno type="VID">177747</idno>
+  <idno type="EEBO-PROQUEST">2240878214</idno>
+  <idno type="STC">STC 18975</idno>
+  <idno type="STC">ESTC S113809</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99849039e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15081)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177747)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1180:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The first and second part of The remedy of loue. VVritten by Sir Thomas Ouerbury Knight</title>
+                  <title>Remedia amoris. English</title>
+                  <author>Ovid, 43 B.C.-17 or 18 A.D.</author>
+                  <author>Overbury, Thomas, Sir, 1581-1613.</author>
+               </titleStmt>
+               <extent>[32] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nicholas Okes, and are to be sold by Iohn VVels at his shop in Fetter-lane and in the Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1620.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A translation of: Ovid.  Remedia amoris.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-B.</note>
+                  <note>The first leaf and the last leaf are blank.</note>
+                  <note>Running title reads: The remedy of loue.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177747:1"/>
+            <p>THE FIRST AND SE<g ref="char:EOLhyphen"/>cond part of <hi>The Remedy of Loue.</hi>
+            </p>
+            <p>VVritten by Sir THOMAS OVERBVRY Knight.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nicholas Okes,</hi> and are to be sold by <hi>Iohn VVels</hi> at his shop in Fetter-lane and in the Temple. 1620.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177747:2"/>
+            <pb facs="tcp:177747:2"/>
+            <head>TO THE WORTHY GENTLEMAN, AND HIS much honoured friend, Master IOHN ONLEY.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Ir, in this my loue is showne to you, since I giue you the Remedy of Loue, a Receipt neuer before ministred by any but <hi>Ouid,</hi> one well skild in the cause, therefore should better gesse at the Remedy: Many others, perhaps, in this world, with your selfe, which cry with our Poet,
+<q>
+                  <l>—Oh nature too vnkind,</l>
+                  <l>That made no medcine for a Loue-sick mind.</l>
+               </q>
+            </p>
+            <p>Here may haue remedy: (it is an infection reignes) but if your selfe or any other finde reme<g ref="char:EOLhyphen"/>dy in this my remedy I (not Physition like) looke but for thankes, and I appeale to all louers for the Patronizing of this little Pamphlet: This wish<g ref="char:EOLhyphen"/>ing you in all your desires remedy, I rest</p>
+            <closer>
+               <signed>Yours <hi>I. W.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:177747:3"/>
+            <pb facs="tcp:177747:3"/>
+            <head>The Remedy of Loue.</head>
+            <div n="1" type="part">
+               <lg>
+                  <l>
+                     <seg rend="decorInit">W</seg>Hen Loue did reade the Title of my booke,</l>
+                  <l>He fear'd least some had Armes against him tooke;</l>
+                  <l>Suspect mee not for such a wicked thought,</l>
+                  <l>Vnder thy colours which so oft haue fought.</l>
+                  <l>Some youths are oft in loue, but I am euer;</l>
+                  <l>And now to do the same I do perseuer.</l>
+                  <l>I meane not to blot out what I haue taught,</l>
+                  <l>Nor to vnwinde the web that I haue wrought.</l>
+                  <l>If any loue, and is with loue repaide,</l>
+                  <l>Blest be his state! he needeth not my aide:</l>
+                  <l>But if he reape scorne where he loue hath sowne,</l>
+                  <l>Of such it is that I take charge alone.</l>
+                  <pb facs="tcp:177747:4"/>
+                  <l> Why should loue any vnto hanging force?</l>
+                  <l>When as euen hate can driue them to no worse?</l>
+                  <l>Why by their own hands should it cause men perish,</l>
+                  <l>When it is peace alone that loue doth cherish?</l>
+                  <l>Il'e ease you now which taught to loue before,</l>
+                  <l>The same hand which did wound shall heale the sore.</l>
+                  <l>The same earth, poyson'd flowres, and healthsome breeds,</l>
+                  <l>The Rose is often neighbour vnto weeds.</l>
+                  <l>To men and women both, I Physicke giue,</l>
+                  <l>Else I but halfe the sicke world should relieue.</l>
+                  <l>If any for that Sexe vnfitting are,</l>
+                  <l>Yet they by mens example may beware:</l>
+                  <l>Had wicked <hi>Seylla</hi> this my counsell read,</l>
+                  <l>The golden haire had sluck to <hi>Nisus</hi> head.</l>
+                  <l>Take heed, when thou dost first to like begin,</l>
+                  <l>Thrust not loue out, but let him not come in.</l>
+                  <l>By running farre, Brookes runne with greater force,</l>
+                  <l>'Tis easier to hold in, then stop thy horse.</l>
+                  <pb facs="tcp:177747:4"/>
+                  <l> Delay, addes strength and faster hold imparts:</l>
+                  <l>Delay, the blades of corne, to eares conuerts.</l>
+                  <l>The Tree which now is father to a shade,</l>
+                  <l>And often head against the winde hath made,</l>
+                  <l>I could at first haue pluckt vp with my hand,</l>
+                  <l>Though the Sunnes prospect now it dares withstand,</l>
+                  <l>Then passions, ere they fortifie remoue,</l>
+                  <l>"In short time, liking, groweth to be loue:</l>
+                  <l>Be prouident, and so preuent thy sorrow,</l>
+                  <l>Who will not do't to day, cannot to morrow.</l>
+                  <l>The Riuer which now multipli'd doth swell,</l>
+                  <l>Is in his cradle but a little Well.</l>
+                  <l>Oft, that which when 'tis done is but a skarte,</l>
+                  <l>Becomes a wound while we the cure deferre.</l>
+                  <l>But in thy heart if loue be firmely seated,</l>
+                  <l>And hath such roote as cannot be defeated:</l>
+                  <l>Although in had at first I did not take you,</l>
+                  <l>At point of death'twere cruell to forsake you.</l>
+                  <l>That fire which water neuer can asswage,</l>
+                  <pb facs="tcp:177747:5"/>
+                  <l> For want of stuffe at length must end his rage.</l>
+                  <l>Whiles loue is in his furious heate giue place,</l>
+                  <l>Delay, what counsell cannot, brings to passe,</l>
+                  <l>At first his minde impatient and sore,</l>
+                  <l>Doth Physicke, more then the disease abhorre.</l>
+                  <l>Who but a foole, a mother will forbid,</l>
+                  <l>Her sonne new dead, some briny drops to shed:</l>
+                  <l>When she a while hath spoke her griefe in teares,</l>
+                  <l>With patience then, of patience she heares.</l>
+                  <l>Out of due season who so Physicke gi's,</l>
+                  <l>Though it cause health, yet hath he done amisse.</l>
+                  <l>And friendly counsell vrged out of date,</l>
+                  <l>Doth fret the sore, and cause the hearers hate.</l>
+                  <l>But when loues anger seemeth to appease.</l>
+                  <l>By all meanes labour to shunne idlenes:</l>
+                  <l>This brings him first, this staies him and no other,</l>
+                  <l>This is to <hi>Cupid</hi> both his nurse and mother.</l>
+                  <l>Barre idlenesse, loues arrowes blunt will turne,</l>
+                  <l>And the vnflaming fire want power to burne,</l>
+                  <pb facs="tcp:177747:5"/>
+                  <l>"Loue ne're doth better entertainment finde,</l>
+                  <l>"Then in a desolate and empty minde.</l>
+                  <l>Sloth is loues bawde, if thou wilt leaue wooing,</l>
+                  <l>Let still thy body, or thy minde be doing.</l>
+                  <l>Full happinesse nere stop'd with rub of chance,</l>
+                  <l>Ease vncontroul'd, Long sleepes and dalliance,</l>
+                  <l>Do wound the minde, though neuer pierce the skin,</l>
+                  <l>And through that wound loue slily creepeth in.</l>
+                  <l>Then either vnto bookes go make thy mone,</l>
+                  <l>So shalt thou haue most company alone.</l>
+                  <l>Or else vnto the doubtfull warres go range,</l>
+                  <l>Ready, thy felfe, for honour to exchange.</l>
+                  <l>The <hi>Parthian,</hi> that valiant <hi>Run-away,</hi>
+                  </l>
+                  <l>To yeeld new cause of triumph doth assay.</l>
+                  <l>
+                     <hi>Aegystus</hi> was a letcher, and why so?</l>
+                  <l>The cause was he had nothing else to do.</l>
+                  <l>When all the youths of <hi>Greece</hi> for <hi>Troy</hi> were bound,</l>
+                  <l>And with a wall of men enclos'd it round,</l>
+                  <l>
+                     <hi>Aegystus</hi> would not from his home remoue,</l>
+                  <pb facs="tcp:177747:6"/>
+                  <l> Where he did nothing, but that nothing loue.</l>
+                  <l>If these faile, to the Country then repaire,</l>
+                  <l>For any care extinguisheth this care:</l>
+                  <l>There maist thou see the Oxe, the yoke obey,</l>
+                  <l>And though the earth, ploughs eating through their way:</l>
+                  <l>To whom thou maist set corne to vse, and see</l>
+                  <l>For euery corne, spring vp a little Tree.</l>
+                  <l>The Sunne being Midwife, thou shalt oft finde there,</l>
+                  <l>Trees bearing far more fruite then they can beare.</l>
+                  <l>And how the siluer Brookes are riding post,</l>
+                  <l>Till in some Riuer they themselues haue lost.</l>
+                  <l>There maist thou see Goates skale the highest Hill,</l>
+                  <l>That they their bellies and their dugges may fill.</l>
+                  <l>And harmelesse sheepe, to whom was no defence,</l>
+                  <l>By nature euer giuen, but innocence.</l>
+                  <l>There maist thou learne to graffe, and then note how,</l>
+                  <l>The old Tree nurseth the adopted bough;</l>
+                  <l>And of his sap doth him allowance rate,</l>
+                  <l>Though his fruite from him do degenerate.</l>
+                  <pb facs="tcp:177747:6"/>
+                  <l> There maist thou see the Hare tred many a ring,</l>
+                  <l>The Hounds into a laborinth to bring:</l>
+                  <l>Vntill he (hauing long his death delaide)</l>
+                  <l>By his owne steps be to the dogs bettaide,</l>
+                  <l>Of Fishing vse, so thou the fish shalt see,</l>
+                  <l>Punish'd to death for their credulity.</l>
+                  <l>Do this, that thou maist weary be at night,</l>
+                  <l>So sleepe in spight of thoughts shall close thy sight.</l>
+                  <l>Let not thy memory things past repeate,</l>
+                  <l>Tis easier oft to learne then to forget.</l>
+                  <l>Therefore keepe distance, and thy loue forsake,</l>
+                  <l>This to effect some iourney vndertake:</l>
+                  <l>I know thou wilt wish raine, and faine delay,</l>
+                  <l>And oft thy doubtfull foote stand at a stay:</l>
+                  <l>But how much more it greiues thee to be gone,</l>
+                  <l>So much the more remember to go on.</l>
+                  <l>Name not the miles nor once look backwards home,</l>
+                  <l>The <hi>Parthian</hi> by flight doth ouercome.</l>
+                  <l>Some say my rules are hard, I do confesse it,</l>
+                  <pb facs="tcp:177747:7"/>
+                  <l> I needs must hurt the wound because I dresse it.</l>
+                  <l>Wilt thou bide for thy bodies health vexation?</l>
+                  <l>Which straight decayes without foods reparation?</l>
+                  <l>And wilt not thou do this thy minde to mend?</l>
+                  <l>Thy better halfe which did from heauen descend?</l>
+                  <l>For your more comfort, this one proofe I say,</l>
+                  <l>"'Tis harder farte to part then stay away.</l>
+                  <l>For custome with the hardest things that are,</l>
+                  <l>Will make vs in short time familiar.</l>
+                  <l>If thou be once abroad there long abide,</l>
+                  <l>Least comming home into relaps thou slide:</l>
+                  <l>Then will thine absence bring thee to worse plight,</l>
+                  <l>As fasting breeds a greater appetite.</l>
+                  <l>Thinke not by witchcraft to fright loue away,</l>
+                  <l>
+                     <hi>Pluto</hi> himselfe hath bene in loue they say.</l>
+                  <l>
+                     <hi>Circe</hi> vs'de this, the wandring Knight to stirre,</l>
+                  <l>Yet many miles were twixt his loue and her.</l>
+                  <l>But he that is so vex'd, that would esteeme,</l>
+                  <l>All paines but cheape, his freedome to redeeme:</l>
+                  <pb facs="tcp:177747:7"/>
+                  <l> Let him alone summe vp his Mistresse crimes,</l>
+                  <l>Thinke how much she hath cost thee many times:</l>
+                  <l>Thinke how she vsde to sweare and kindly speake,</l>
+                  <l>And (faithlesse) streight her word and oath to breake:</l>
+                  <l>And thinke, the same night that she thee denies,</l>
+                  <l>That (greedy) with some seruingman she lies.</l>
+                  <l>Vrge this, thy matter neuer will be spent,</l>
+                  <l>For sorrow will make any eloquent.</l>
+                  <l>I was in loue my selfe the other day,</l>
+                  <l>And she vngratefull would not loue repay.</l>
+                  <l>Then grew I the Physitian and the sicke,</l>
+                  <l>And did my selfe recouer by this tricke.</l>
+                  <l>I sayd she was not faire when I did eye her,</l>
+                  <l>Yet to confesse the truth I did belie her,</l>
+                  <l>I blam'd her leg and foote when I stood by her,</l>
+                  <l>Yet to confesse the truth I did belie her,</l>
+                  <l>Yet I at length (for many times I said it)</l>
+                  <l>Gainst my owne knowledge to my selfe gaue credite,</l>
+                  <l>Still neere to vertue, vices bordring lie,</l>
+                  <pb facs="tcp:177747:8"/>
+                  <l> For on both sides of her they seated be:</l>
+                  <l>Then the good parts thou in thy Mistresse know'st,</l>
+                  <l>To one of those two vices see thou bow'st.</l>
+                  <l>Account the fat as swolne, the browne as blacke,</l>
+                  <l>If she be slender, say, she flesh doth lacke:</l>
+                  <l>If she be merry, sweare that she is light,</l>
+                  <l>If modest, thinke it is for lacke of wit.</l>
+                  <l>This done, thy Mistresse, be she not too coy,</l>
+                  <l>Wherein she hath no gift nor grace, employ:</l>
+                  <l>If she sing harsh, intreate her still to sing,</l>
+                  <l>Hath she fat fingers? then a Lute her bring:</l>
+                  <l>If she stride wide, then get her forth to walke,</l>
+                  <l>If speake she ill, then giue her cause to talke.</l>
+                  <l>If she dance hobling, let her not sit still,</l>
+                  <l>And make her laugh if that her teeth be ill;</l>
+                  <l>Sometimes into her chamber earely presse,</l>
+                  <l>Before at all points she her selfe can dresse:</l>
+                  <l>That which is <hi>Venus</hi> image when 'tis done,</l>
+                  <l>Was (while 'twas making) but a rugged stone.</l>
+                  <pb facs="tcp:177747:8"/>
+                  <l> With Cloathes and Tires our iudgements bribed bee,</l>
+                  <l>And woman is least part of what we see.</l>
+                  <l>But least thou too much trust this rule, beware,</l>
+                  <l>For many (like Truth) fairest, naked are.</l>
+                  <l>Yet venture in, for there is often found,</l>
+                  <l>The stuffe, whereof their painting they compound:</l>
+                  <l>And boxes, which vnto their cheekes giue colour,</l>
+                  <l>And water that doth wash their faces fouler.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb facs="tcp:177747:9"/>
+               <pb facs="tcp:177747:9"/>
+               <head>The second part of the Remedy <hi>Of Loue.</hi>
+               </head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">H</seg>Itherto haue I breath'd, now will I bring,</l>
+                  <l>My ranging course into a shorter ring.</l>
+                  <l>When that night comes (which many nights hath lost thee,</l>
+                  <l>And much sweete bitter expectation cost thee)</l>
+                  <l>Whilst thou art heauy, and thy spirits downe,</l>
+                  <l>And foolishly wise, by repentance growne:</l>
+                  <l>Then let thine eyes her body note, till they</l>
+                  <l>Do something finde amisse and thereon stay.</l>
+                  <l>Some may perchance, these precepts, trifles call,</l>
+                  <l>Who is not help'd by any may by all.</l>
+                  <pb facs="tcp:177747:10"/>
+                  <l> For all I cannot fit instructions finde,</l>
+                  <l>Because no two are like in face and minde.</l>
+                  <l>The same that one doth not mislike at all,</l>
+                  <l>A great deformity, some others call.</l>
+                  <l>As that nice youth, that did his loue with-draw,</l>
+                  <l>Because his Mistresse he at Priuy saw.</l>
+                  <l>They loue in ieast, that so can whole become,</l>
+                  <l>When <hi>Cupid</hi> shootes at such he drawes not home.</l>
+                  <l>Striue thou to be in loue with two together,</l>
+                  <l>So shall thy loue be violent in neither:</l>
+                  <l>For when thy minde by halfes doth doubtfull stray,</l>
+                  <l>One loue doth take the others force away.</l>
+                  <l>The selfe-same strength, vnited is more strong,</l>
+                  <l>Then when to two, it parted, doth belong.</l>
+                  <l>Great Riuers being peece-meale oft diuided,</l>
+                  <l>Do shrinke at length to Brooks that may be strided</l>
+                  <l>This trick hath many help'd, therefore we see,</l>
+                  <l>Women for spite terme it Inconstancie.</l>
+                  <l>The old loue, by sucession out is droue,</l>
+                  <pb facs="tcp:177747:10"/>
+                  <l> In <hi>Helen, Paris</hi> lost <hi>Oenone's</hi> loue.</l>
+                  <l>Shee which hath many sonnes, makes not such mone,</l>
+                  <l>As she which looseth all her sonnes in one,</l>
+                  <l>The fastest loue a second loue vndoes,</l>
+                  <l>For in a crosse-way loue himselfe doth loose.</l>
+                  <l>Although thy heart with fire like <hi>Aetna</hi> flame,</l>
+                  <l>Let not thy Mistresse once perceiue the same:</l>
+                  <l>Smother thy passions, and let not thy face,</l>
+                  <l>Tell thy mindes secrets, while she is in place:</l>
+                  <l>Thy heart being stormy, let thy face be cleere,</l>
+                  <l>Nor let loues fire by smoake of sighes appeare.</l>
+                  <l>Dissemble long, till thy dissembling breed,</l>
+                  <l>Such vse, as thou art out of loue indeed.</l>
+                  <l>I haue, from drinking, so my selfe to keepe,</l>
+                  <l>Laine on a bed and winck'd my selfe asleepe.</l>
+                  <l>Oft haue I seene youths faine themselues in loue,</l>
+                  <l>Till taken at their words they so did proue.</l>
+                  <l>If she appoint thee any time to come,</l>
+                  <l>And comming thither find'st her not at home.</l>
+                  <pb facs="tcp:177747:11"/>
+                  <l> Do not make Sonnets at her chamber dore,</l>
+                  <l>Nor thy repulse as a mischance deplore,</l>
+                  <l>Nor to her, when thou meetest her againe,</l>
+                  <l>Of thine owne wrongs or her vntruth complaine.</l>
+                  <l>For, to be patient, time will easy make it,</l>
+                  <l>If thou haue patience but to vndertake it.</l>
+                  <l>He that from farre his Mistresse doth admire;</l>
+                  <l>And dares not hope of his hauing desire:</l>
+                  <l>His wound, a cure, vncurable will proue,</l>
+                  <l>For what we thinke forbidden, most we loue.</l>
+                  <l>Distrust not then, till thou heare her reply,</l>
+                  <l>"Who asketh faintly, teacheth to deny.</l>
+                  <l>If all these faile, this next will helpe impart,</l>
+                  <l>And loue of others to selfe-loue conuert.</l>
+                  <l>Since thoughts of loue no longer vs possesse,</l>
+                  <l>Then while we liue in health and happinesse.</l>
+                  <l>Let him that is indebted thinke alone,</l>
+                  <l>That while he thinkes his day drawes neerer on:</l>
+                  <l>Whom a hard father from his will doth let,</l>
+                  <pb facs="tcp:177747:11"/>
+                  <l> Let him before him still his father set.</l>
+                  <l>Let him which will a wife with nothing take,</l>
+                  <l>Thinke from preferment she will keepe him backe:</l>
+                  <l>None need this Physicke of Physitions borrow,</l>
+                  <l>For none but hath some cause of feare or sorrow.</l>
+                  <l>Let him that deeply loues and is forgone,</l>
+                  <l>(Like an ill-doer) feare to be alone.</l>
+                  <l>Vse not to silent Groues alone to shrinke,</l>
+                  <l>Nothing loue more vpholdeth then to thinke:</l>
+                  <l>Then will thy minde thy Mistresse picture take,</l>
+                  <l>For mem'ry all things past doth present make.</l>
+                  <l>Then like <hi>Pigmalion</hi> we an image frame,</l>
+                  <l>And fall in loue deuoutly with the same.</l>
+                  <l>Therefore, then night, lesse dangerous is the day,</l>
+                  <l>Because then, thoughts new borne, talk sends away.</l>
+                  <l>Then shalt thou finde how much a friend is worth,</l>
+                  <l>Into whose breast thou maist thy griefe poure forth.</l>
+                  <l>
+                     <hi>Phillis</hi> alone frequented th'riuers side,</l>
+                  <l>Clowded with shade of trees, till there she di'd.</l>
+                  <pb facs="tcp:177747:12"/>
+                  <l> Who loues must louers company refuse,</l>
+                  <l>For loue is as infectious as newes.</l>
+                  <l>By looking on sore eyes, we sore eyes get,</l>
+                  <l>And fire doth alwaies on the next house set.</l>
+                  <l>Did not infection to next neighbours flie,</l>
+                  <l>Diseases would with their first owners die.</l>
+                  <l>A wound new heal'd will soone break out againe,</l>
+                  <l>Therefore from seeing of thy loue refraine:</l>
+                  <l>Nor will this serue, but thou must shun her kin,</l>
+                  <l>And euen the house which she abideth in</l>
+                  <l>Let not her Nurse or Chamber-maide once moue thee</l>
+                  <l>Though they protest, how much their Mistresse loues thee</l>
+                  <l>Nor into any question of her breake,</l>
+                  <l>Nor of her talke (though thou against her speake)</l>
+                  <l>He that sayes oft that he is not in loue,</l>
+                  <l>By repetition doth himselfe disproue.</l>
+                  <l>I would not wish thy loue in hatred end,</l>
+                  <l>Let her that was thy loue, be still thy friend.</l>
+                  <l>But when yee needs must meet, then shew thy spirit,</l>
+                  <pb facs="tcp:177747:12"/>
+                  <l> Thinke how she loues some fellow of lesse merite,</l>
+                  <l>Make not thy selfe against thou seest her fine,</l>
+                  <l>For this is doubtlesse, of some loue, a signe.</l>
+                  <l>The reason is (as I my selfe haue tride)</l>
+                  <l>Why many men so long in loue abide,</l>
+                  <l>Because if they some kinder looke obtaine,</l>
+                  <l>They forth-with thinke they are belou'd againe.</l>
+                  <l>"To our owne flattery soone we credite giue,</l>
+                  <l>"And what we would haue true we soone beleeue.</l>
+                  <l>So they like Gamesters leese on more and more,</l>
+                  <l>Lest they should loose that little lost before.</l>
+                  <l>But trust not thou their words, &amp; though they swear,</l>
+                  <l>Yet womens oathes are oather of Atheists here.</l>
+                  <l>Nor as a signe of griefe their weeping take,</l>
+                  <l>But thinke, their eyes, vse, soluble doth make.</l>
+                  <l>Bee still and sullen, beare a grudge in minde,</l>
+                  <l>Nor tell the cause least she excuses finde:</l>
+                  <l>He that beginneth with his loue to chide,</l>
+                  <l>That man is willing to bs satisfide.</l>
+                  <pb facs="tcp:177747:13"/>
+                  <l> Beauty is nothing worth, for if we loue,</l>
+                  <l>The fowl'st she in our iudgement faire will proue:</l>
+                  <l>Therefore the onely meanes by which to try them,</l>
+                  <l>Is then to iudge when fairer do stand by them:</l>
+                  <l>Conferre their faces and with all their minde,</l>
+                  <l>Who seeth onely with his eyes is blinde.</l>
+                  <l>Comparison, the touch-stone is, whereby,</l>
+                  <l>We from the good the better do descry.</l>
+                  <l>'Tis but a trifle which I meane to speake,</l>
+                  <l>And yet, loues strength, this trifle oft doth breake.</l>
+                  <l>All letters written from thy Mistresse, burne:</l>
+                  <l>Such reliques, louers mindes do backwards turne.</l>
+                  <l>Though thou canst not behold thē while they flame.</l>
+                  <l>Thy loues last funerall fire, do thinke the same.</l>
+                  <l>Take heed least thou into the place refort,</l>
+                  <l>Which hath bene accessary to your sport:</l>
+                  <l>Stirre not the ashes which do fire conceale,</l>
+                  <l>Nor touch the wound which is about to heale.</l>
+                  <l>Loue cannot be maintain'd with pouertie,</l>
+                  <pb facs="tcp:177747:13"/>
+                  <l> His ryot doth with riches best agree.</l>
+                  <l>Honour and titles, though not felt nor seene,</l>
+                  <l>The chiefest cause of loue to some haue bene.</l>
+                  <l>Frequent not Plaies, for whiles we others loue,</l>
+                  <l>See acted, we our selues do parties proue.</l>
+                  <l>Vpon my proofe, Musicke and Dancing flie,</l>
+                  <l>For Musicke, Trees and Stones did mollifie:</l>
+                  <l>And fishes too though they themselues be dumbe</l>
+                  <l>To heare <hi>Arions</hi> Harpe did gladly come.</l>
+                  <l>And Dancing doth in some more Passions raise,</l>
+                  <l>Then reason pacifies in many daies.</l>
+                  <l>These melt the minde and soft our hearts do make,</l>
+                  <l>And thereby loues impression apt to take.</l>
+                  <l>Touch not the Poets which of loue do sing,</l>
+                  <l>They vs to loue by imitation bring,</l>
+                  <l>Whiles we in them do others loue behold,</l>
+                  <l>Change but the names the Tale of vs is told.</l>
+                  <l>What man (but some stiffe Clowne) but soone will proue</l>
+                  <l>By reading of such bookes in loue, with loue?</l>
+                  <pb facs="tcp:177747:14"/>
+                  <l> Barre them I say, because in them is found,</l>
+                  <l>A certaine musicke and a wanton sound.</l>
+                  <l>Vnlesse I by <hi>Apollo</hi> be misled,</l>
+                  <l>'Tis a mutation which most loue hath bred.</l>
+                  <l>Much easinesse doth cloy, and most we set,</l>
+                  <l>By that which we with doubt from others get:</l>
+                  <l>Then frame this selfe me riuall, but surmise,</l>
+                  <l>That cold in middle of her bed she lies.</l>
+                  <l>
+                     <hi>Atrides</hi> could lye dull by <hi>Helens</hi> side,</l>
+                  <l>And was content at <hi>Creet</hi> from her to bide.</l>
+                  <l>Vntill by <hi>Paris</hi> she from him was rented,</l>
+                  <l>Then was his loue by others loue augmented.</l>
+                  <l>Lastly, I must some meates forbid the sicke,</l>
+                  <l>That I in all may be Physition like:</l>
+                  <l>Vse not on sweete and iuicy meates to feede,</l>
+                  <l>Of such, the fulnesse, doth lusts hunger breede:</l>
+                  <l>And stuff'd with such, we any do admire,</l>
+                  <l>When all their beauty lies in our desire.</l>
+                  <l>But Wine is more prouoking farre then meat,</l>
+                  <pb facs="tcp:177747:14"/>
+                  <l> This heates our bloud and it on rage doth set.</l>
+                  <l>This drownes our minde and makes it sence obey,</l>
+                  <l>"Loues wings being wet he cannot flye away.</l>
+               </lg>
+            </div>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+   </text>
+</TEI>
